@@ -1,6 +1,6 @@
-# Myapp
+# What I learned
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
+I learned how to create a web application using Angular, Javascript, HTML, and CSS. I also learned how to deploy an application to production using FireBase.
 
 ## Credit
 This application's code is from a tutorial to learn angular.
