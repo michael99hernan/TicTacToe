@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tictactoe-fef07": {
+      "hosting": {
+        "myapp": [
+          "tictactoe-fef07"
+        ]
+      }
+    }
+  }
+}
